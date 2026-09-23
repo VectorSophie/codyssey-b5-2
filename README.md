@@ -1,4 +1,4 @@
-# b3-2 Mini Git — CLI 기반 커밋 그래프 엔진
+# b5-2 Mini Git — CLI 기반 커밋 그래프 엔진
 
 Python 표준 라이브러리만으로 구현한 Mini Git. 커밋을 DAG로 저장하고,
 직접 짠 위상 정렬 / 최단 경로 / 병합 정렬 / 역색인으로 LOG, PATH,
@@ -16,7 +16,7 @@ ANCESTORS, SEARCH를 처리한다.
 ## 폴더 구조
 
 ```
-codyssey-b3-2/
+codyssey-b5-2/
 ├── main.py               # 엔트리 포인트
 ├── test_mini_git.py       # assert 기반 자체 검증 스크립트
 └── mini_git/
